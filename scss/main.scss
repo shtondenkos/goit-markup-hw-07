@@ -5,13 +5,21 @@
 // base styles 
 @import "./base/common";
 @import "./base/reset";
-@import "./base/js-selectors.scss";
 @import "./base/conteiner";
 @import "./base/card-set";
 
 // components
 @import "./components/button";
-@import "./components/socials"
+@import "./components/socials";
 
 // layouts
-
+@import "./layouts/about";
+@import "./layouts/ourteam";
+@import "./layouts/logo";
+@import "./layouts/hero";
+@import "./layouts/features";
+@import "./layouts/partners";
+@import "./layouts/footer";
+@import "./layouts/form";
+@import "./layouts/overlay";
+@import "./layouts/modal";
